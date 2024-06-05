@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-:sparkles:I'm currently taking part in the data analytics bootcamp of Spiced Academy to improve my skills and develop<br>:metal:I'm experienced in team building, data management and interface management 
+:sparkles:I'm currently taking part in the data analytics bootcamp of Spiced Academy to improve my skills and develop<br>:metal:I'm experienced in team building, data management and interface management<br>:innocent:I'm an authentic, empathatic and tolerant 
 
 
 ## 🌐 Socials:
